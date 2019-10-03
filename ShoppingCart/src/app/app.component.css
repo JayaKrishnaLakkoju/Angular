@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+#approot{
+
+     height:100vh;
+     width:100vw;
+     border:1px;
+     overflow-x: hidden;
+     /* overflow-y:scroll; */
+     
+}

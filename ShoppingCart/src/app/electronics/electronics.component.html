@@ -1,0 +1,13 @@
+
+    <div id="electronics" *ngFor="let element of elec">
+
+        <div id="eleborder">
+        <img src="{{ element.image }}" width="100px" height="100px" />&nbsp;
+        <!-- <p>{{element.image}}</p> -->
+        <p>{{ element.name}}</p>
+        <button (click)='add(element)'>ADD TO CART</button>
+        </div>
+    </div>
+     
+    
+

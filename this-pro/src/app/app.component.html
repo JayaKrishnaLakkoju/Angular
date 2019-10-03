@@ -1,0 +1,11 @@
+<div id="root">
+
+<p> Enter Email</p>
+<input type="text" [(ngModel)]='list' />
+<br><br>
+<button  [disabled]="temp" (click)="submit()" >submit</button>
+<!-- <button  [disabled]="!temp" (click)="remove()">remove</button> -->
+
+</div>
+<app-firstcomponent [bind]="dummy"></app-firstcomponent>
+

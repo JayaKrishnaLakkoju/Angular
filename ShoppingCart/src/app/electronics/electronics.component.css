@@ -1,0 +1,20 @@
+#electronics{
+
+    margin-top:10px;
+    margin-left:10px;
+    width:100vw;
+    height: 27vh;
+}
+
+#eleborder{
+    border:1px solid lightgray;
+    width:150px;
+    height:150px;
+    box-sizing: border-box;
+}
+
+img{
+
+    border:1px solid gray;
+    padding:1px;
+}

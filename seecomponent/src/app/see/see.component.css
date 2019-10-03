@@ -1,0 +1,12 @@
+/* p { 
+    text-transform: lowercase; 
+}
+
+p:first-letter {
+    text-transform: uppercase;
+    }
+    */
+ 
+p{
+    text-align:center;
+}

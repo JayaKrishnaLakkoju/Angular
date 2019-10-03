@@ -1,0 +1,30 @@
+#navigate{
+
+    width:99.7vw;
+    height:6.925vh;
+    border:1px solid antiquewhite;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+    /* margin:auto; */
+}
+
+#navs{
+    /* padding-bottom:30px; */
+    margin-left:5px;
+    padding-bottom:140px;
+}
+
+/* #navs1{
+    display: inline-block;
+} */
+
+a{
+    text-decoration: none;
+    
+}
+/* #im{
+    
+    margin-left:1200px;
+    margin-bottom:150px;
+} */
+

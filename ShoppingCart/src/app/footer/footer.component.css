@@ -1,0 +1,10 @@
+#footer{
+    width:99.7vw;
+    height:6.925vh;
+    border:1px solid pink;
+    /* margin-top: 125px; */
+    background-color: pink;
+    position: fixed;
+    bottom:0;
+    text-align: center;
+}

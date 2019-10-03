@@ -1,0 +1,12 @@
+
+<div id="fashion" *ngFor="let fa of fash">
+
+        <img src="{{ fa.image }}" width="100px" height="100px" />
+        <!-- <p>{{element.image}}</p> -->
+        <p>{{fa.name}}</p>
+
+        <button (click)='add(fa)'>ADD TO CART</button>
+
+</div>
+     
+
